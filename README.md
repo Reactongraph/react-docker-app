@@ -2,7 +2,7 @@
   ===========================================
 
 
-Steps of Docker set-up are as follow:-
+Steps of Docker Installation set-up are as follow:-
 ---------------------------------------
 
 1. sudo apt-get update
