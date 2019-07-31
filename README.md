@@ -13,7 +13,7 @@ Steps of Docker set-up are as follow:-
 
 Check docker is installed or not, run this command: <h5>sudo docker -v</h5>
 
-Docker configure in your project(React.js), follow these steps:-
+Docker configure in your project(React.js) follow these steps:-
 ------------------------------------------------------
 
 1. goto root directory of your project.
